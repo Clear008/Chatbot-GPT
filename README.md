@@ -19,7 +19,7 @@ Une application mobile Flutter simple permettant de discuter avec **ChatGPT** (m
 
 | Login Page               | 
 |-------------------------|
-| <img src="images/login.png" alt="Aperçu du Chat" width="200" />  |   
+| <img src="images/Login.png" alt="Aperçu du Chat" width="200" />  |   
 
 ---
 
